@@ -1,3 +1,6 @@
+.main{
+  width: fit-content;
+}
 
 .header__main{
   background: linear-gradient(-180deg,#f53d2d,#f63);
@@ -7,10 +10,6 @@
   top:0; 
   height: 120px;
   z-index: 6;
-}
-
-.main{
-  width: 100%;
 }
 
 /* css header */
